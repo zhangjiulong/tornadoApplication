@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1010104698.jpg" name="用户1">
+    <displayName>用户1</displayName>
+    <title>职位1</title>
+    <intro>介绍1</intro>
+    <thumb>1010104698.jpg</thumb>
+    <img>1010104698.jpg</img>
+    <feature>1010104698.jpg.bin</feature>
+    <status>1</status>
+  </user>
+  <user id="1010106577.jpg" name="用户2" status="0">
+    <displayName>用户2</displayName>
+    <title>职位2</title>
+    <intro>介绍2</intro>
+    <thumb>1010106577.jpg</thumb>
+    <img>1010106577.jpg</img>
+    <feature>1010106577.jpg.bin</feature>
+    <status>0</status>
+  </user>
+  <user id="1010106751.jpg" name="用户3">
+    <displayName>用户3</displayName>
+    <title>职位3</title>
+    <intro>介绍3</intro>
+    <thumb>1010106751.jpg</thumb>
+    <img>1010106751.jpg</img>
+    <feature>1010106751.jpg.bin</feature>
+    <status>1</status>
+  </user>
+  <user id="1010106988.jpg" name="用户4">
+    <displayName>用户4</displayName>
+    <title>职位4</title>
+    <intro>介绍4</intro>
+    <thumb>1010106988.jpg</thumb>
+    <img>1010106988.jpg</img>
+    <feature>1010106988.jpg.bin</feature>
+    <status>0</status>
+  </user>
+  <user id="1010108709.jpg" name="用户5">
+    <displayName>用户5</displayName>
+    <title>职位5</title>
+    <intro>介绍5</intro>
+    <thumb>1010108709.jpg</thumb>
+    <img>1010108709.jpg</img>
+    <feature>1010108709.jpg.bin</feature>
+    <status>1</status>
+  </user>
+  <user id="1010109929.jpg" name="用户6">
+    <displayName>用户6</displayName>
+    <title>职位6</title>
+    <intro>介绍6</intro>
+    <thumb>1010109929.jpg</thumb>
+    <img>1010109929.jpg</img>
+    <feature>1010109929.jpg.bin</feature>
+    <status>1</status>
+  </user>
+  <user id="33223" name="用户7">
+    <displayName>用户7</displayName>
+    <title>职位7</title>
+    <intro>介绍7</intro>
+    <thumb>no</thumb>
+    <img>img</img>
+    <feature>feature</feature>
+    <status>1</status>
+  </user>
+  <user id="33223" name="用户8">
+    <displayName>用户8</displayName>
+    <title>职位8</title>
+    <intro>介绍8</intro>
+    <thumb>no</thumb>
+    <img>img</img>
+    <feature>feature</feature>
+    <status>1</status>
+  </user>
+  <user id="张九龙" name="用户9">
+    <displayName>用户9</displayName>
+    <title>职位9</title>
+    <intro>介绍9</intro>
+    <thumb>no</thumb>
+    <img>img</img>
+    <feature>feature</feature>
+    <status>1</status>
+  </user>
+</users>
